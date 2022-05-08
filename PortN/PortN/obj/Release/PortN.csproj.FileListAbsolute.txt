@@ -1,0 +1,9 @@
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\bin\Release\PortN.exe.config
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\bin\Release\PortN.exe
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\bin\Release\PortN.pdb
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Release\PortN.csprojResolveAssemblyReference.cache
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Release\PortN.frmMain.resources
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Release\PortN.Properties.Resources.resources
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Release\PortN.csproj.GenerateResource.Cache
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Release\PortN.exe
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Release\PortN.pdb

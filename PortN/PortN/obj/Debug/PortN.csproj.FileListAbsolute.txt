@@ -1,0 +1,8 @@
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\bin\Debug\PortN.exe.config
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\bin\Debug\PortN.exe
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\bin\Debug\PortN.pdb
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Debug\PortN.frmMain.resources
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Debug\PortN.Properties.Resources.resources
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Debug\PortN.csproj.GenerateResource.Cache
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Debug\PortN.exe
+D:\STUDY\LapTrinh\C#\DuAn\PortN\PortN\PortN\obj\Debug\PortN.pdb
